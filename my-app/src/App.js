@@ -1,4 +1,3 @@
-//import { useEffect } from "react";
 import { Route, HashRouter} from "react-router-dom";
 import Api from "./Api";
 import RegisterForm from "./components/Auth/RegisterForm";
