@@ -1,0 +1,1 @@
+web: gunicorn mentalgame.wsgi --log-file -
