@@ -12,22 +12,22 @@ const Download = () => {
 
   const [isNotClicked, setIsNotClicked] = useState(true);
   
-  const onButtonClick = () => {
+//   const onButtonClick = () => {
     
-    setIsNotClicked(false);
-    // using JavaScript method to get PDF file
-    fetch('interact_with_math.pdf').then(response => {
-        response.blob().then(blob => {
-            // Creating new object of PDF file
-            const fileURL = window.URL.createObjectURL(blob);
-            // Setting various property values
-            let alink = document.createElement('a');
-            alink.href = fileURL;
-            alink.download = 'interact_with_math.pdf';
-            alink.click();
-        })
-    })
-}
+//     setIsNotClicked(false);
+//     // using JavaScript method to get PDF file
+//     fetch('interact_with_math.pdf').then(response => {
+//         response.blob().then(blob => {
+//             // Creating new object of PDF file
+//             const fileURL = window.URL.createObjectURL(blob);
+//             // Setting various property values
+//             let alink = document.createElement('a');
+//             alink.href = fileURL;
+//             alink.download = 'interact_with_math.pdf';
+//             alink.click();
+//         })
+//     })
+// }
   return (
     <div className={`${styles.section} ${styles.bgWhite}`}>
       <div className={`${styles.subSection} flex-col text-center`}>
