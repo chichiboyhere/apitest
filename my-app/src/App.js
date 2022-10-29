@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+//import { useEffect } from "react";
 import { Route, HashRouter} from "react-router-dom";
 import Api from "./Api";
 import RegisterForm from "./components/Auth/RegisterForm";
@@ -13,16 +13,16 @@ import QuantitativeTestTwo from "./components/AptitudeTests/QuantitativeTestTwo"
 import QuantitativeTestThree from "./components/AptitudeTests/QuantitativeTestThree";
 /** Navbar link: https://blog.logrocket.com/create-responsive-navbar-react-css/ */
 import Layout from "./components/UI/Layout";
-import icon from './images/favicon.ico';
+//import icon from './images/favicon.ico';
 ///https://www.django-rest-framework.org/tutorial/1-serialization/
 //https://devcenter.heroku.com/articles/getting-started-with-python#set-up
 //https://stackoverflow.com/questions/54865159/how-to-add-favicon-to-django-app-with-react-front-end
 
 function App() {
-  useEffect(() => {
-    const favicon = document.getElementById('favicon');
-    favicon.setAttribute('href', icon);
-}, []);
+//   useEffect(() => {
+//     const favicon = document.getElementById('favicon');
+//     favicon.setAttribute('href', icon);
+// }, []);
   return (
     <HashRouter>
     <Layout>
