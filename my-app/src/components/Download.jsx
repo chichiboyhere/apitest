@@ -37,7 +37,7 @@ const Download = () => {
         <SectionWrapper
         
         description="Interact with Mathematics, was written with your success in mind. It covers the UTME, WASSCE, NECO and post-UTME syllabuses. Here is a PDF copy of the book. I'm making it available for free download for 2 months: October 17 to December 17, 2022. All I ask of you in return for this free copy is a promise that you'll study the book. The study guide for the book is on the first page. Please don't miss that page so you can get the best out of the book. Also I enjoin you to recommend the book to a friend who needs it. Encourage them to come to this site to download it. Please don't share your copy with them. Don't transfer the book to them. Just refer them to the site. I'll really appreciate it. May you experience sky-high success as you download, and study this book. Thank you."
-        mockupImg={assets.book_cover}
+        mockupImg={assets.php}
         reverse
         
       />
