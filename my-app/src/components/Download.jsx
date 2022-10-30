@@ -42,7 +42,7 @@ const Download = () => {
         
       />
       {/* {!isNotClicked && <FlashMessage duration={5000}><LoadingSpinner /></FlashMessage>} */}
-      <a href="/my-app/build/static/images/interact_with_math.pdf" download><button className={styles.btnPrimary}  disabled={!isNotClicked}><FontAwesomeIcon icon ={faDownload}></FontAwesomeIcon> Download</button></a>
+      <a href="/staticfiles/images/interact_with_math.pdf" download><button className={styles.btnPrimary}  disabled={!isNotClicked}><FontAwesomeIcon icon ={faDownload}></FontAwesomeIcon> Download</button></a>
        
         
         <div className={styles.flexCenter}>
