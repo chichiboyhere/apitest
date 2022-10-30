@@ -36,12 +36,12 @@ const StartingPageContent = () => {
         banner="banner"
       />
       <SectionWrapper
-        title="The Quantitative Aptitude and Verbal Test"
+        title="The Quantitative Aptitude and Verbal Aptitude"
         description="The Quantitative Aptitude is a test of the student's computational
         skills.  You will be
         flashed a mathematical problem with four options from which you're to
         pick an answer. If the option picked is correct, your score will be
-        increased by one, else it remains the same. The Verbal Aptitude, on the other hand tests how good the students is in communication,
+        increased by one, else it remains the same. The Verbal Aptitude, on the other hand tests how good the student is in communication,
         via written words. At the end of each of the tests you will receive a final score in percentage.
         You will also get your score per second(SPS) -- which
         basically judges the rate at which you proferred a solution to the
