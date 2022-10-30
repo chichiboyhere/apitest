@@ -10,7 +10,7 @@ import verbalIcon from "./verbal_reasoning_icon.png";
 import logicalIcon from "./logical_reasoning_icon.png";
 import book_cover from "./book_cover.jpg";
 import book from "./interact_with_math.pdf";
-import php from "./php.pdf"
+
 
 export default {
   contact,
@@ -25,5 +25,5 @@ export default {
   logicalIcon,
   book_cover,
   book,
-  php
+  
 };
