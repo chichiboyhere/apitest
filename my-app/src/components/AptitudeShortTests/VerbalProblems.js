@@ -16,7 +16,7 @@ function VerbalProblems({onClose}) {
   const questions = [
     {
       id: "Q1",
-      text: "The FA president, not the referee and the match officials ..... to blame for the continued poor offitiating in the EPL.",
+      text: "The FA president, not the referee and the match officials, ..... to blame for the continued poor offitiating in the EPL.",
       options: [
         { id: 0, text: "are", isCorrect: false },
         { id: 1, text: "were", isCorrect: false },

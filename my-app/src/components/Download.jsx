@@ -42,7 +42,7 @@ const Download = () => {
         
       />
       {/* {!isNotClicked && <FlashMessage duration={5000}><LoadingSpinner /></FlashMessage>} */}
-      <a href={assets.book} download><button className={styles.btnPrimary}  disabled={!isNotClicked}><FontAwesomeIcon icon ={faDownload}></FontAwesomeIcon> Download</button></a>
+      <a href={assets.pamphlet} download><button className={styles.btnPrimary}  disabled={!isNotClicked}><FontAwesomeIcon icon ={faDownload}></FontAwesomeIcon> Download</button></a>
        
         
         <div className={styles.flexCenter}>
