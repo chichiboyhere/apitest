@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.aee65bce.css",
-    "main.js": "/static/js/main.3a27cb2f.js",
+    "main.js": "/static/js/main.af363c45.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/interact_with_math.pdf": "/static/media/interact_with_math.4c763b324fd29d93c276.pdf",
+    "static/media/interect_with_math.pdf": "/static/media/interect_with_math.4c763b324fd29d93c276.pdf",
     "static/media/students_more.jpg": "/static/media/students_more.2808a7339e54f4eac18f.jpg",
     "static/media/beautiful-african-college-stud.jpg": "/static/media/beautiful-african-college-stud.b6ec3cf615f62ea85f66.jpg",
     "static/media/college_student.jpg": "/static/media/college_student.ee6ae2466b564be2ba80.jpg",
@@ -19,11 +19,11 @@
     "static/media/banner04.svg": "/static/media/banner04.b43b10b807bb6396ac49.svg",
     "index.html": "/index.html",
     "main.aee65bce.css.map": "/static/css/main.aee65bce.css.map",
-    "main.3a27cb2f.js.map": "/static/js/main.3a27cb2f.js.map",
+    "main.af363c45.js.map": "/static/js/main.af363c45.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aee65bce.css",
-    "static/js/main.3a27cb2f.js"
+    "static/js/main.af363c45.js"
   ]
 }
