@@ -29,7 +29,7 @@ const Download = () => {
         
       />
       
-      <a href={assets.book} target="_blank"><button className={styles.btnPrimary} onClick={handleClick} disabled={!isNotClicked}><FontAwesomeIcon icon ={faDownload}></FontAwesomeIcon> Download</button></a>
+      <a href={assets.book} download><button className={styles.btnPrimary} onClick={handleClick} disabled={!isNotClicked}><FontAwesomeIcon icon ={faDownload}></FontAwesomeIcon> Download</button></a>
        
         
         <div className={styles.flexCenter}>

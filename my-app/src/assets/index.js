@@ -9,7 +9,7 @@ import apitestLogo from "./apitestLogo.png";
 import verbalIcon from "./verbal_reasoning_icon.png";
 import logicalIcon from "./logical_reasoning_icon.png";
 import book_cover from "./book_cover.jpg";
-import book from "./interect_with_math.pdf";
+import book from "./interact_with_math(u).pdf";
 
 
 
