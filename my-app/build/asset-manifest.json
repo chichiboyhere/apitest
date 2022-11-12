@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.aee65bce.css",
-    "main.js": "/static/js/main.af363c45.js",
+    "main.js": "/static/js/main.17ca1320.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/interect_with_math.pdf": "/static/media/interect_with_math.4c763b324fd29d93c276.pdf",
     "static/media/students_more.jpg": "/static/media/students_more.2808a7339e54f4eac18f.jpg",
@@ -19,11 +19,11 @@
     "static/media/banner04.svg": "/static/media/banner04.b43b10b807bb6396ac49.svg",
     "index.html": "/index.html",
     "main.aee65bce.css.map": "/static/css/main.aee65bce.css.map",
-    "main.af363c45.js.map": "/static/js/main.af363c45.js.map",
+    "main.17ca1320.js.map": "/static/js/main.17ca1320.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aee65bce.css",
-    "static/js/main.af363c45.js"
+    "static/js/main.17ca1320.js"
   ]
 }
